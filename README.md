@@ -1,2 +1,3 @@
-# GooFit.github.io
-Webpage for GooFit
+# GooFit
+
+[Webpage for GooFit](https://GooFit.github.io)

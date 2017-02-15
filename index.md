@@ -27,7 +27,7 @@ nvidia-docker run -it goofit/goofit-cuda
 
 This will put you in a `/GooFit` folder. You should git pull the latest changes, and then go to `/GooFit/build` and rebuild. If you have a GooFit Package, you can check it out to `/GooFit/goofit_*`. If you want to persist you session, you should use Docker to mount a volume or folder.
 
-The source for the docker builds is [available on GitHub](https://github.com/GooFit/docker-goofit).
+The source for the docker builds is [available on GitHub](https://github.com/GooFit/goofit-docker).
 
 ## Acknowledgement 
 
