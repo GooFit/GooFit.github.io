@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The GooFit Organization 
-email: your-email@domain.com
+title: The GooFit Organization
+email: nil
 description: > # this means to ignore newlines until "baseurl:"
-    This is the GooFit OpenMP and GPU fitter with a RooFit-like syntax.
+    GooFit is an OpenMP and GPU fitting package with a RooFit-like syntax.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://GooFit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: GooFit
+twitter_username: nil
 github_username:  GooFit
 
 # Build settings
