@@ -5,15 +5,16 @@ tagline: A RooFit like fitter for GPUs and OpenMP
 description: Home page for GooFit
 ---
 
+![GooFit Logo](./images/GooFitLogo.png)
+
 ## The package
 
-GooFit is a powerful, fast fitting library designed to mimic the familar syntax of [ROOT](https://root.cern.ch)'s RooFit. The code and installation instructions are [available here, on GitHub](https://github.com/GooFit/GooFit), and a description of the fitting process and API is available on [GitHub IO](https://GooFit.github.io/GooFit).
+[GooFit] is a powerful, fast fitting library designed to mimic the familiar syntax of [ROOT](https://root.cern.ch)'s [RooFit](http://roofit.sourceforge.net). The code and installation instructions are [available here, on GitHub][GooFit], and a description of the fitting process and API is available on [GitHub IO](https://GooFit.github.io/GooFit).
 
 
 ## Docker builds
 
 The development version of GooFit is available through Docker as well. To use the OpenMP version:
-
 
 ```bash
 docker run -it goofit/goofit-omp
@@ -36,5 +37,6 @@ and was developed under grant number [1005530].
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the developers
 and do not necessarily reflect the views of the National Science Foundation.
 
+[GooFit]:            https://github.com/GooFit/GooFit
 [1005530]:           https://nsf.gov/awardsearch/showAward?AWD_ID=1005530
 [1414736]:           https://nsf.gov/awardsearch/showAward?AWD_ID=1414736
