@@ -5,7 +5,7 @@ tagline: A RooFit like fitter for GPUs and OpenMP
 description: Home page for GooFit
 ---
 
-![GooFit Logo](./images/GooFitLogo.png)
+[![GooFit Logo](./images/GooFitLogo.png)][GooFit]
 
 ## The package
 
