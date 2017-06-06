@@ -7,6 +7,9 @@ description: Home page for GooFit
 
 [![GooFit Logo](./images/GooFitLogo.png)][GooFit]
 
+[The code][GooFit] • [What's new](https://github.com/GooFit/GooFit/blob/master/CHANGELOG.md) • [Tutorials] • [API documentation]
+
+
 ## The package
 
 [GooFit] is a powerful, fast fitting library designed to mimic the familiar syntax of [ROOT](https://root.cern.ch)'s [RooFit](http://roofit.sourceforge.net). The code and installation instructions are [available here, on GitHub][GooFit], and a description of the fitting process and API is available on [GitHub IO](https://GooFit.github.io/GooFit).
@@ -40,3 +43,5 @@ and do not necessarily reflect the views of the National Science Foundation.
 [GooFit]:            https://github.com/GooFit/GooFit
 [1005530]:           https://nsf.gov/awardsearch/showAward?AWD_ID=1005530
 [1414736]:           https://nsf.gov/awardsearch/showAward?AWD_ID=1414736
+[Tutorials]:         https://henryiii.gitbooks.io/goofit/content/
+[API documentation]: https://GooFit.github.io/GooFit
