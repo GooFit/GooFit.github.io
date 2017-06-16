@@ -33,6 +33,24 @@ This will put you in a `/GooFit` folder. You should git pull the latest changes,
 
 The source for the docker builds is [available on GitHub](https://github.com/GooFit/goofit-docker).
 
+## Publications about GooFit
+
+* [GooFit: A library for massively parallelising maximum-likelihood fits](http://inspirehep.net/record/1302129)
+* [Statistical significance estimation of a signal within the GooFit framework on GPUs](http://inspirehep.net/record/1519638)
+
+## Analyses using GooFit
+
+If you are using GooFit, please let us know and we'll try to include your work here.
+
+* [Amplitude analysis of four-body decays using a massively-parallel fitting framework](http://inspirehep.net/record/1514733)
+* [Model-independent partial wave analysis using a massively-parallel fitting framework](http://inspirehep.net/record/1516800)
+* [Studies of `D⁰ → KS⁰ h⁺ h⁻′` decays at the LHCb experiment](http://inspirehep.net/record/1503518)
+* [Measurement of the neutral D meson mixing parameters in a time-dependent amplitude analysis of the `D⁰ → π⁺ π⁻ π⁰` decay](http://inspirehep.net/record/1441203)
+* [Measurement of the mixing parameters of neutral charm mesons and search for indirect CP violation with `D⁰ → KS⁰ π⁺ π⁻` decays at LHCb](http://inspirehep.net/record/1503629)
+* [Studies of the resonance structure in `D⁰ → KS⁰ K± π∓` decays](http://inspirehep.net/record/1394391)
+* [Time-dependent amplitude analysis of semileptonically-tagged `D⁰ → KS⁰ pi⁺ pi⁻` decays at LHCb](http://inspirehep.net/record/1264020)
+
+
 ## Acknowledgement 
 
 GooFit's development is supported by the National Science Foundation under grant number [1414736]
