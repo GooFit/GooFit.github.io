@@ -44,13 +44,23 @@ If you are using GooFit, please let us know and we'll try to include your work h
 
 * [Amplitude analysis of four-body decays using a massively-parallel fitting framework](http://inspirehep.net/record/1514733)
 * [Model-independent partial wave analysis using a massively-parallel fitting framework](http://inspirehep.net/record/1516800)
-* [Studies of `D⁰ → KS⁰ h⁺ h⁻′` decays at the LHCb experiment](http://inspirehep.net/record/1503518)
+* [Studies of `D⁰ → KS⁰ h⁺ h′⁻` decays at the LHCb experiment](http://inspirehep.net/record/1503518)
 * [Measurement of the neutral D meson mixing parameters in a time-dependent amplitude analysis of the `D⁰ → π⁺ π⁻ π⁰` decay](http://inspirehep.net/record/1441203)
 * [Measurement of the mixing parameters of neutral charm mesons and search for indirect CP violation with `D⁰ → KS⁰ π⁺ π⁻` decays at LHCb](http://inspirehep.net/record/1503629)
 * [Studies of the resonance structure in `D⁰ → KS⁰ K± π∓` decays](http://inspirehep.net/record/1394391)
 * [Time-dependent amplitude analysis of semileptonically-tagged `D⁰ → KS⁰ pi⁺ pi⁻` decays at LHCb](http://inspirehep.net/record/1264020)
 
+## See Also
 
+The following tools are similar to GooFit, or mention GooFit in some way.
+
+| Library   | Description |
+|-----------|-------------|
+| [Hydra](https://github.com/MultithreadCorner/Hydra) | Header only library designed for data analysis focused on performance and precision. This library replaces MCBooster, and is expected to be available in an upcoming release of GooFit, as well. |
+| [Ipanema-β](http://inspirehep.net/record/1602619) | Tools and examples for HEP analysis on GPU. |
+| [TensorFlowAnalysis](https://gitlab.cern.ch/poluekt/TensorFlowAnalysis) | A TensorFlow based set of examples and code. |
+
+ 
 ## Acknowledgement 
 
 GooFit's development is supported by the National Science Foundation under grant number [1414736]
