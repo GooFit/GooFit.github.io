@@ -72,5 +72,5 @@ In addition, we thank the nVidia GPU Grant Program for donating hardware used in
 [GooFit]:            https://github.com/GooFit/GooFit
 [1005530]:           https://nsf.gov/awardsearch/showAward?AWD_ID=1005530
 [1414736]:           https://nsf.gov/awardsearch/showAward?AWD_ID=1414736
-[Tutorials]:         https://henryiii.gitbooks.io/goofit/content/
+[Tutorials]:         https://goofit.gitlab.io/Goo2Torial
 [API documentation]: https://GooFit.github.io/GooFit
